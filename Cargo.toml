@@ -1,0 +1,13 @@
+[package]
+name = "tgind"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Fully featured and Simplest rust Telegram bot api for creating best telegram bots easily."
+repository = "https://github.com/PanditSiddharth/rust-tgind"
+documentation = "https://github.com/PanditSiddharth/rust-tgind"
+authors = ["Siddharth Sharma <mynmss3@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
